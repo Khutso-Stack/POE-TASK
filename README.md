@@ -1,9 +1,9 @@
 # Helping Hands Children's Shelter Website
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student Number:** [Your Student Number]
-- **Module:** [Module Name & Code]
+- **Name:** [Khutso Sebea]
+- **Student Number:** [ST10465145]
+- **Module:** [WEDE5020]
 
 ---
 
@@ -95,3 +95,4 @@ The design reflects the organisation’s warm and hopeful identity, using orange
 - UNICEF South Africa – Child welfare statistics.  
 - Unsplash/Pexels – Royalty-free images for non-profits.  
 - Creative Commons Icons – For volunteer/donation visuals.  
+
